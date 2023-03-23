@@ -1,8 +1,11 @@
-# [Augmented Reality Demo](https://github.com/eotles/blog/blob/gh-pages/posts/20220402_AR_example/toy_biplane.usdz?raw=true)
-[Erkin Ötleş](https://eotles.github.io) <br />
-April 2nd 2022
-
-Topics: augmented reality, extended reality, mixed reality, virtual reality<br />
+---
+title: "Augmented Reality Demo"
+categories:
+  - Blog
+tags:
+  - AR/VR/XR
+link: https://github.com/eotles/blog/blob/gh-pages/posts/20220402_AR_example/toy_biplane.usdz?raw=true
+---
 
 This is an augmented reality (AR) demo using Apple's Augmented Reality tools. The 3D asset is a USDZ file created by [Apple](https://developer.apple.com/augmented-reality/quick-look/) (they own all rights to it). It is hosted as file uploaded to this GitHub repository.
 
