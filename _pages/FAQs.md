@@ -1,3 +1,8 @@
+---
+permalink: /FAQs/
+title: "FAQs"
+---
+
 ## Who are you?
 I'm [Erkin](https://otles-notes.ghost.io/about/)!
 
