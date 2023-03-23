@@ -1,10 +1,16 @@
-# Looking for Data
-[Erkin Ötleş](https://eotles.github.io) <br />
-January 24th 2022 <br />
-Updated February 16th 2022
-
-Topics: Healthcare, data, data science, machine learning, operations research, nurse call light system <br />
-[PDF Version](looking_for_data.pdf)
+---
+title: "Looking for Data"
+categories:
+  - Blog
+tags:
+  - healthcare
+  - medicine
+  - data
+  - data science
+  - machine learning
+  - operations research
+  - nurse call light system
+---
 
 One of the nice things about being an MD-PhD student at a research institution with a large academic medical center is that you tend to have a lot of support when it comes to working on your biomedical research questions. Despite institutional support, data can be a challenge and finding the right data for your question depends a lot on your connections with the myriad various data systems and data-gate-keepers that exist in your academic environment. Having done this data sleuthing for a decade plus I have bit of experience in ferreting out interesting sources of healthcare data.
 
