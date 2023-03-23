@@ -1,9 +1,13 @@
 main:
+  - title: "About"
+    url: /about/
+  - title: "FAQs"
+    url: /FAQs/
+  - title: "Mission"
+    url: /mission-values/    
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
