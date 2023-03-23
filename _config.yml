@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Artificial intelligence & healthcare thoughts.
 twitter_username: eotles
 github_username: eotles
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Erkin Otles"
-  avatar : "/assets/images/exo_headshot.jpeg"
+  avatar : "/assets/images/exo_headshot_square.png"
   bio    : "My name is Erkin Ötleş & I'm a physician-engineer (in perpetual training). 
             This is my sporadically updated blog focused on engineering & medicine."
   links:
