@@ -1,9 +1,15 @@
-# Intro to Machine Learning Models for Physicians: Part I
-[Erkin Ötleş](https://eotles.github.io) <br />
-March 1st 2022
-
-Topics: machine learning, artificial intelligence, operations research, statistics, healthcare, medicine<br />
-[PDF Version](intro_to_ml_part_i.pdf)
+---
+title: "Intro to Machine Learning Models for Physicians: Part I"
+categories:
+  - Blog
+tags:
+  - machine learning
+  - artificial intelligence
+  - operations research
+  - statistics
+  - healthcare
+  - medicine
+---
 
 This a foundational post that has two aims. The first is to demystify machine learning which I believe is key to enabling physicians and other clinicians to become empowered users of the machine learning tools they use. There’s a bit of ground I want to cover, so this post will be broken into several parts. This part situates and introduces machine learning then discusses the important components of machine learning models.
 
