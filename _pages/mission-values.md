@@ -1,3 +1,8 @@
+---
+permalink: /mission-values/
+title: "Mission & Values"
+---
+
 https://otles-notes.ghost.io/content/images/2023/03/mackinac_bridge_sunset.jpeg![image](https://user-images.githubusercontent.com/6284187/227385405-0613bdac-6890-4b03-a42c-e513ea149bd0.png)
 
 
