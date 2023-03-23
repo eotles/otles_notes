@@ -1,9 +1,17 @@
-# Bigger Needle Smaller Number
-[Erkin Ötleş](https://eotles.github.io) <br />
-February 15th 2022
-
-Topics: engineering, industrial engineering, medicine, hypodermic needles, gauges, measurement system, industrialization <br />
-[PDF Version](needle_gauges.pdf)
+---
+title: "Bigger Needle Smaller Number"
+categories:
+  - Blog
+tags:
+  - engineering
+  - industrial engineering
+  - medicine
+  - hypodermic needles
+  - gauges
+  - measurement system
+  - industrialization 
+  - standards
+---
 
 This is going to be a short post because the last one about EHR front-ends was about 3 times longer than I had originally planned for it to be.
 
