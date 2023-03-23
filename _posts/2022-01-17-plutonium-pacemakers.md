@@ -1,10 +1,16 @@
-# Plutonium Pacemakers
-[Erkin Ötleş](https://eotles.github.io) <br />
-January 17th 2022 <br />
-Originally posted on twitter March 11th 2021
-
-Topics: Cardiac pacemaker, nuclear power, plutonium pacemaker, engineering, biomedical devices <br />
-[PDF Version](plutonium_pacemakers.pdf) <br />
+---
+title: "Plutonium Pacemakers"
+categories:
+  - Blog
+tags:
+  - medicine
+  - heart
+  - cardiac pacemaker
+  - nuclear power
+  - pacemaker
+  - engineering
+  - biomedical devices
+---
 
 This is a reformatted version of a [twitter thread I had put together nearly a year ago](https://twitter.com/eotles/status/1370206446881701891?s=20). In a former life I worked on designing the manufacturing system for cardiac pacemakers. I had done a bit of research on pacemakers at the time, but I had never come across the fact that some early pacemakers were designed and built with plutonium power sources.
 
