@@ -1,9 +1,15 @@
-# Doctor’s Notes Software Prototype
-[Erkin Ötleş](https://eotles.github.io) <br />
-March 7th 2022
-
-Topics: health information technology, doctor’s notes, electronic health records, software design, user interfaces, user experience, human computer interaction <br />
-[PDF Version](doctors_notes_software_prototype.pdf)
+---
+title: "Doctor’s Notes Software Prototype"
+categories:
+  - Blog
+tags:
+  - health IT
+  - doctor’s notes
+  - electronic health records
+  - software design
+  - UI/UX
+  - human factors engineering
+---
 
 ![image](https://user-images.githubusercontent.com/6284187/157065025-c146a4e1-cd7e-4410-bb2e-8378ef2cd438.png)
 
