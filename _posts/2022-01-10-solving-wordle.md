@@ -3,13 +3,13 @@ title: "Solving Wordle"
 categories:
   - Blog
 tags:
-  - Wordle
-  - Decision Science
-  - Operations Research
-  - Optimization
-  - Games
-  - Artificial Intelligence
-  - Machine Learning
+  - wordle
+  - decision science
+  - operations research
+  - optimization
+  - games
+  - artificial intelligence
+  - machine learning
 ---
 
 Let’s talk about Wordle. [1] You, like me, might have been drawn into this game recently, courtesy of those yellow and green squares on twitter. The rules are simple, you get 6 attempts to guess the 5 letter word. After every attempt you get feedback in the form of the colored squares around your letters. Grey means this character isn’t used at all. Yellow means that the character is used, but in a different position. Finally, green means you nailed the character to (one of) the right position(s). Here’s an example of a played game:
