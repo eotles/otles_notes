@@ -1,9 +1,14 @@
-Why Doctors Should Contact Tech Support
-[Erkin Ötleş](https://eotles.github.io) <br />
-February 21st 2022
-
-Topics: tech support, health information technology, healthcare, medicine, enterprise software <br />
-[PDF Version](call_tech_support.pdf)
+---
+title: "Why Doctors Should Contact Tech Support"
+categories:
+  - Blog
+tags:
+  - tech support
+  - health IT
+  - healthcare
+  - medicine
+  - enterprise software 
+---
 
 > If you see something, say something. 
 
