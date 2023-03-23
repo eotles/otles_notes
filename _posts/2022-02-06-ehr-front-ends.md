@@ -1,9 +1,16 @@
-# The Complicated Way You See Patient Data: A Discussion on EHR Front-Ends for Doctors
-[Erkin Ötleş](https://eotles.github.io) <br />
-February 6th, 2022
-
-Topics: Healthcare Information Technology, Electronic Health Records, Computer Science, Software Engineering, Software Architecture, Clinical Informatics, Tech Support <br />
-[PDF Version](ehr_front_ends.pdf)
+---
+title: "The Complicated Way You See Patient Data: A Discussion on EHR Front-Ends for Doctors"
+categories:
+  - Blog
+tags:
+  - healthcare IT
+  - electronic health records
+  - computer science
+  - software engineering
+  - software architecture
+  - clinical informatics
+  - tech support
+---
 
 I have a love-hate relationship with electronic health records (EHRs). This relationship first started in the early 2000s at a high school sports physical and has significantly outlasted my high school soccer career. Eventually the relationship turned serious and my first job out of college was for an EHR vendor. My thrilling life as a support engineer at Epic Systems Corporation was cut short by my silly decision to pursue an MD-PhD. After years of being on one side of the software and data-stack I transitioned to being a “user" for the first time. While not totally naive to all of the issues surrounding modern EHRs this transition was still pretty eye opening.
 
