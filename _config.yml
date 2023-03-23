@@ -58,8 +58,9 @@ plugins:
 
 author:
   name   : "Erkin Otles"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/exo_headshot.jpeg"
+  bio    : "My name is Erkin Ötleş & I'm a physician-engineer (in perpetual training). 
+            This is my sporadically updated blog focused on engineering & medicine."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
