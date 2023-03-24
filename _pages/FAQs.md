@@ -27,3 +27,8 @@ I'm still figuring it out. But I think there are four key components: learning, 
 - Doing: develop solutions based on that knowledge and test them rigorously in the real world through implementation and continuous evaluation
 - Disseminating: sharing knowledge and work helps to scale impact and virtuously feeds learning and doing (I'm trying to improve on this front)
 - Connecting: new friends generate new ideas, and networks are powerful tools for accomplishing audacious goals
+
+---
+
+## Are you open to consulting?
+Yes. I am open to artificial intelligence, data science, and health information consulting. Have done all of that in the past. Unfortunately, I have no guarantees on time availability.
