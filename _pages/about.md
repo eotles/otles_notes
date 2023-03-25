@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: false
 ---
 
 My name is Erkin Ötleş & I’m a physician-engineer (in perpetual training). My mission is to advance health by harnessing the power of data. When I’m not working on AI for healthcare, I enjoy cooking, traveling, and jumping around!
