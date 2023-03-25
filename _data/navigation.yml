@@ -1,6 +1,8 @@
 main:
    - title: "About"
      url: /about/
+   - title: "Blog"
+     url: /blog/
    - title: "Mission"
      url: /mission-values/
    - title: "FAQs"
