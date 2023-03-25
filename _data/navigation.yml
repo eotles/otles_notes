@@ -12,8 +12,8 @@ blog:
    - title: Blog
    children:
       - title: "Posts"
-        url: /posts/
+        url: /blog/posts/
       - title: "Categories"
-        url: /categories/
+        url: /blog/categories/
       - title: "Tags"
-        url: /tags/
+        url: /blog/tags/
