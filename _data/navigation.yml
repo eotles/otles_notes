@@ -8,12 +8,12 @@ main:
    - title: "FAQs"
      url: /FAQs/
 
-#blog:
-#   - title: Blog
-#   children:
-#      - title: "Posts"
-#        url: /blog/posts/
-#      - title: "Categories"
-#        url: /blog/categories/
-#      - title: "Tags"
-#        url: /blog/tags/
+blog:
+   - title: Blog
+   children:
+      - title: "Posts"
+        url: /blog/posts/
+      - title: "Categories"
+        url: /blog/categories/
+      - title: "Tags"
+        url: /blog/tags/
