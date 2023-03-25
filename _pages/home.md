@@ -30,8 +30,27 @@ intro:
           100% { transform: rotate( 0.0deg) }
         }
 
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
         .container {
-          background-color: black;
+          --color-main: #5452ee;
+          --color-primary: #e73c7e;
+          --color-secondary: #23a6d5;
+          --color-tertiary: #ffff;
+
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
 
           width: 100%;
           height: 300px;
@@ -50,7 +69,20 @@ intro:
           transform-origin: 70% 70%;
         }
 
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #F15BB5;
+            --color-primary: #24b0ef;
+            --color-secondary: #4526f6;
+            --color-tertiary: #f6f645;
+          }
+        }
+
         @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
           .hi {
             animation: none;
           }
@@ -58,10 +90,10 @@ intro:
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Erkin <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
-</svg>
+</svgg
 
 
