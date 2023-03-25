@@ -95,5 +95,16 @@ intro:
     </div>
   </foreignObject>
 </svgg
+  
+ 
+  
 
+<body>
+    <form id="form1" runat="server">
+    <div style="border:solid 1 px blue;">
+       This is the main page...
+       <!--#include virtual="old_index.html" -->
+    </div>
+    </form>
+</body>
 
