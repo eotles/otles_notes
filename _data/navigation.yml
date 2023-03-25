@@ -9,11 +9,11 @@ main:
      url: /FAQs/
 
 blogsidebar:
-   - title: blogsidebar
+   - title: Filter Posts
      children:
        - title: "Categories"
          url: /blog/categories/
-       - title: "II"
+       - title: "Tags"
          url: /blog/tags/
-       - title: "III"
+       - title: "Years"
          url: /blog/posts/
