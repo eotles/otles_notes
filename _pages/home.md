@@ -15,6 +15,6 @@ intro:
 ---
 
 
-<<iframe src="index.html" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+<iframe src="index.html" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 
