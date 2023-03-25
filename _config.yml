@@ -106,6 +106,13 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      sidebar:
+        nav: "blog"
 
 category_archive:
   type: liquid
