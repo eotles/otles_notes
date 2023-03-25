@@ -104,6 +104,7 @@ intro:
     <div style="border:solid 1 px blue;">
        This is the main page...
        <!--#include virtual="old_index.html" -->
+      <link href="old_index.html" rel="import" />
     </div>
     </form>
 </body>
