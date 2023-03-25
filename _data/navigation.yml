@@ -8,8 +8,8 @@ main:
    - title: "FAQs"
      url: /FAQs/
 
-#blog:
-#   - title: Blog
-#   children:
-#      - title: "HI"
-#        url: /blog/
+bsidebar:
+   - title: bsidebar
+     children:
+       - title: "HI"
+         url: /blog/
