@@ -11,5 +11,7 @@ main:
 blogsidebar:
    - title: blogsidebar
      children:
-       - title: "HI"
-         url: /blog/
+       - title: "Categories"
+         url: /blog/categories/
+       - title: "II"
+         url: /blog/mission-values/
