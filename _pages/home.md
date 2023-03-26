@@ -51,7 +51,20 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-# Header
+<section id="intro">
+  <div class="row">
+    <div class="container">
+              <img src="img/erkin.png" width="210" height="210" alt="Erkin Otles">
+
+      <h2>Hi, I'm Erkin Otles.</h2> 
+      <h4>I'm a MD/PhD Student. My research focuses on using machine learning to improve health. I love numbers (and space)!!</h4>
+      <h4>Here's a link to my <a href="https://eotles.github.io/blog/">blog</a>.</h4>
+
+    </div>
+  </div>
+</section>
+
+
 Let's put some text here
 
 {% include feature_row id="intro" type="center" %}
