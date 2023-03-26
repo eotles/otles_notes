@@ -56,6 +56,13 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+
+<html>
+<body>
+  {% include old_index.html %}
+</body>
+</html>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
