@@ -54,15 +54,34 @@ feature_row4:
 <section id="intro">
   <div class="row">
     <div class="container">
-              <img src="img/erkin.png" width="210" height="210" alt="Erkin Otles">
-
       <h2>Hi, I'm Erkin Otles.</h2> 
       <h4>I'm a MD/PhD Student. My research focuses on using machine learning to improve health. I love numbers (and space)!!</h4>
-      <h4>Here's a link to my <a href="https://eotles.github.io/blog/">blog</a>.</h4>
 
     </div>
   </div>
 </section>
+
+
+<div class="row education">
+  <a href="#" id="education"></a>
+  <div class="container">
+    <h2>Education</h2>
+    <hr></hr>
+
+    <div class="col-md-6">
+      <h4>University of Michigan<span class="gray"> / 2016 - 2022</span></h4>
+      <p>Medical Scientist Training Program (MD/PhD), Industrial and Operations Engineering</p>
+    </div>
+
+    <div class="col-md-6">
+      <h4>University of Wisconsin - Madison<span class="gray"> / 2015, 2011</span></h4>
+      <p>Master of Engineering (M.Eng.), Industrial and Systems Engineering - Decision Science and Operations Research &amp; Computer Science</p>
+                <p>Bachelor of Science, Industrial and Systems Engineering</p>
+            </div></p>
+    </div>
+
+  </div>
+</div>
 
 
 Let's put some text here
