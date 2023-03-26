@@ -19,7 +19,7 @@ education_row:
     alt: "University of Michigan logo"
     title: "University of Michigan"
     excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering."
-  - image_path: /assets/images/U-M_Logo-PMS.svg
+  - image_path: /assets/images/cropped_jump_around_bucky.png
     alt: "Jump Around Bucky"
     title: "University of Wisconsin"
     excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
