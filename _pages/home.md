@@ -15,17 +15,17 @@ intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 education_row:
-  - image_path: assets/images/empty_1x1.png
+  - image_path: assets/images/empty_550x1.png
     alt: "University of Michigan logo"
     title: "University of Michigan"
     excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering."
     
-  - image_path: /assets/images/empty_1x1.png
+  - image_path: /assets/images/empty_550x1.png
     alt: "Jump Around Bucky"
     title: "University of Wisconsin"
     excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
     
-  - image_path: /assets/images/empty_1x1.png
+  - image_path: /assets/images/empty_550x1.png
     alt: "Jump Around Bucky"
     title: "University of Wisconsin"
     excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
