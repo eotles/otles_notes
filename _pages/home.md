@@ -51,6 +51,20 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Erkin Otles Portfolio</title>
+
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/eostyles.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+</head>
+
 <section id="intro">
   <div class="row">
     <div class="container">
