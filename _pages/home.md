@@ -7,15 +7,7 @@ author: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/dia_stain_glass.png
-  caption: "Stained glass at the DIA."
-excerpt: "My name is Erkin Ötleş & I'm a physician-engineer (in perpetual training). This is my sporadically updated blog focused on engineering & medicine."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
----
-
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  overlay_image: <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -95,6 +87,15 @@ intro:
     </div>
   </foreignObject>
 </svgg
+  
+  caption: "Stained glass at the DIA."
+excerpt: "My name is Erkin Ötleş & I'm a physician-engineer (in perpetual training). This is my sporadically updated blog focused on engineering & medicine."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+---
+
+
+
   
  
   
