@@ -2,6 +2,6 @@
 title: Portfolio
 layout: collection
 permalink: /portfolio/
-collection: portfolio
+collection: Blog
 entries_layout: grid
 ---
