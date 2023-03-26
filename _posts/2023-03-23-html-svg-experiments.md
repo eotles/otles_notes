@@ -88,3 +88,7 @@ tags:
     </div>
   </foreignObject>
 </svgg
+
+  
+  
+Based on a [tutorial by Nikola Đuza](https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/).
