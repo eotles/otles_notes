@@ -18,13 +18,11 @@ education_row:
   - image_path: assets/images/U-M_Logo-PMS.svg
     alt: "University of Michigan logo"
     title: "University of Michigan"
-    excerpt: "Medical Scientist Training Program (MD/PhD), Industrial and Operations Engineering."
-  - image_path: /assets/images/cropped_jump_around_bucky.png
+    excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering."
+  - image_path: /assets/images/U-M_Logo-PMS.svg
     alt: "Jump Around Bucky"
     title: "University of Wisconsin"
-    excerpt: "Master of Engineering (M.Eng.), Industrial and Systems Engineering - Decision Science and Operations Research & Computer Science
-
-Bachelor of Science, Industrial and Systems Engineering."
+    excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
     url: "#test-link"
 
 feature_row2:
