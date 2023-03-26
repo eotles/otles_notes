@@ -56,7 +56,7 @@ feature_row4:
 # Header
 Let's put some text here
 
-% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="education_row" type="center" %}
 
