@@ -57,11 +57,6 @@ feature_row4:
 ---
 
 
-<html>
-<body>
-  {% include old_index.html %}
-</body>
-</html>
 
 <head>
   <meta charset="utf-8">
