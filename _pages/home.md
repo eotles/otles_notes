@@ -17,6 +17,24 @@ hero_row:
     url: "/about/"
     btn_label: "More About Me"
     btn_class: "btn--primary"
+    
+    
+background_row:
+  - image_path: assets/images/heart-pulse-solid.svg
+    alt: "University of Michigan logo"
+    title: "Medicine"
+    excerpt: "Medical Scientist Training Program"
+    
+  - image_path: /assets/images/subscript-solid.svg
+    alt: "Jump Around Bucky"
+    title: "Engineering"
+    excerpt: "Artificial Intelligence & Operations Research"
+    
+  - image_path: /assets/images/computer-solid.svg
+    alt: "Jump Around Bucky"
+    title: "Health IT"
+    excerpt: "Ex-Epic"
+
 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -62,7 +80,6 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-# Education
 {% include feature_row id="education_row" %}
 
 
