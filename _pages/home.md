@@ -13,10 +13,9 @@ hero_row:
     I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. I am an expert in developing & implementing artificial intelligence tools in healthcare.
     
     
-    I like making new friends, feel free to .
     '
-    url: "#test-link"
-    btn_label: "reach out to me here"
+    url: "/about/"
+    btn_label: "More About Me"
     btn_class: "btn--primary"
 
 intro: 
