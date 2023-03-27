@@ -10,11 +10,14 @@ hero_row:
     excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer. This is my website focused on engineering & medicine.
     
     
-    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. I am an expert in developing & implementing artificial intelligence tools across the sprectrum of healthcare.
+    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. I am an expert in developing & implementing artificial intelligence tools in healthcare.
     
     
-    I like making new friends, feel free to reach out to me here.
+    I like making new friends, feel free to .
     '
+    url: "#test-link"
+    btn_label: "reach out to me here"
+    btn_class: "btn--primary"
 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
