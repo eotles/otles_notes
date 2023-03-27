@@ -1,5 +1,4 @@
 ---
-title: "Hello, World!"
 permalink: /
 layout: single
 author: false
@@ -48,8 +47,6 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-
-Let's put some text here
 
 {% include feature_row id="hero_row" type="left" %}
 
