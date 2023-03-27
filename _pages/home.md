@@ -3,6 +3,14 @@ permalink: /
 layout: single
 author: false
 
+hero_row:
+  - image_path: /assets/images/exo_headshot_square.png
+    alt: "Erkin Otles"
+    title: "Hello, World!"
+    excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer. This is my website focused on engineering & medicine.
+    
+    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. My ongoing research, medical training and engineering work expere mean that I have deep expertise in developing and implemmenting artificial intelligence tools across the sprectrum of healthcare.'
+
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
@@ -22,11 +30,6 @@ education_row:
     title: "University of Wisconsin"
     excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
 
-hero_row:
-  - image_path: /assets/images/exo_headshot_square.png
-    alt: "Erkin Otles"
-    title: "Hello, World!"
-    excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer (in training). This is my website focused on engineering & medicine. `type="left"`'
     
     
 feature_row3:
