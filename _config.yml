@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Artificial intelligence & healthcare thoughts.
 twitter_username: eotles
 github_username: eotles
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "default"
 search: true
 
 # Build settings
