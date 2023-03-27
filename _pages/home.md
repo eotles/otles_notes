@@ -8,11 +8,12 @@ hero_row:
     alt: "Erkin Otles"
     title: "Hello, World!"
     excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer. This is my website focused on engineering & medicine.
-    <br>
-    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. My ongoing research, medical training and engineering background inform my deep expertise in developing and implemmenting artificial intelligence tools across the sprectrum of healthcare.
     
     
-    I love making new friends, feel free to reach out to me here.
+    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. I am an expert in developing & implementing artificial intelligence tools across the sprectrum of healthcare.
+    
+    
+    I like making new friends, feel free to reach out to me here.
     '
 
 intro: 
