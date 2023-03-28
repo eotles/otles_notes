@@ -35,7 +35,7 @@ background_row:
   - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Computer icon"
     title: "Health IT"
-    excerpt: "Deep experience integrating AI in healthcare; millions of predicitions on patients. Ex-Epic engineer."
+    excerpt: "Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer."
 
 
 intro: 
