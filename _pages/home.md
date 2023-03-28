@@ -35,7 +35,8 @@ background_row:
   - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Computer icon"
     title: "Health IT"
-    excerpt: "Developing & deploying predictive health IT. End-to-end AI integration into clinical care. Ex-Epic."
+    excerpt: "Deep experience integrating AI in healthcare; millions of predicitions on patients. Ex-Epic engineer."
+    url: "/about/"
 
 
 intro: 
