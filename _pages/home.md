@@ -25,7 +25,7 @@ background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
     title: "Medicine"
-    excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24."
+    excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24.{: style="text-align: center;"}"
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Icon representing variable X1"
@@ -46,7 +46,7 @@ education_row:
   - image_path: assets/images/empty_550x1.png
     alt: "University of Michigan logo"
     title: "University of Michigan"
-    excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering."
+    excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering. "
     
   - image_path: /assets/images/empty_550x1.png
     alt: "Jump Around Bucky"
