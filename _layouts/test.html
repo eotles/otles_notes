@@ -2,21 +2,9 @@
 layout: archive
 ---
 
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    THIS IS THE TEST LAYOUT!
-    
-    {{ content }}
-  </body>
-
+{{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-</html>
   
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
