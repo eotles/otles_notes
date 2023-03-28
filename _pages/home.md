@@ -86,7 +86,7 @@ feature_row4:
 
 {% include feature_row id="hero_row" type="left" %}
 
-{% include feature_row id="background_row"  type="center" %}
+{% include feature_row id="background_row" %}
 
 
 
