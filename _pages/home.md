@@ -44,7 +44,7 @@ research_row:
     alt: "line chart icon"
     title: "Research"
     excerpt: 'My research is at the intersection of AI & healthcare, with a focus on the interface between clinical workflows and predictive models. I utilize methods from the domains of clinical informatics, machine learning, and operations research. My work spans the healthcare AI lifecycle with projects advancing from model development/evaluation, technical integration, and connection with clinical workflows.'
-    url: "/research/"
+    url: "/categories/research/"
     btn_label: "More Research"
     btn_class: "btn--primary"
     
@@ -53,7 +53,7 @@ projects_row:
     alt: "network graph icon"
     title: "Projects"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "/projects/"
+    url: "/categories/#projects/"
     btn_label: "More Projects"
     btn_class: "btn--primary"
     
@@ -62,7 +62,7 @@ press_row:
     alt: "newspaper icon"
     title: "Press"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "/press/"
+    url: "/categories/#press"
     btn_label: "See Press"
     btn_class: "btn--primary"
     
