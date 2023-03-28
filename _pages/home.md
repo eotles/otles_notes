@@ -10,7 +10,9 @@ hero_row:
     excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer. This is my website focused on engineering & medicine.
     
     
-    I am currently at the University of Michigan, completing my final year of combined MD-PhD training. Previously I worked as an engineer at Epic and led a healthcare data science team. I am an expert in developing & implementing artificial intelligence tools in healthcare.
+    I am currently at the University of Michigan, completing my final year of combined MD-PhD training.
+    Previously I worked as an engineer at Epic and led a healthcare data science team.
+    I am an expert in developing & implementing artificial intelligence tools in healthcare.
     
     
     '
@@ -21,19 +23,25 @@ hero_row:
     
 background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
-    alt: "University of Michigan logo"
+    alt: "Heart icon with ECG tracing"
     title: "Medicine"
-    excerpt: "Medical Scientist Training Program"
+    excerpt: "Medical Scientist Training Program
+    University of Michigan Medical School
+    MD Expected May 2024"
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
-    alt: "Jump Around Bucky"
+    alt: "Icon representing variable X1"
     title: "Engineering"
-    excerpt: "Artificial Intelligence & Operations Research"
+    excerpt: "Artificial Intelligence & Operations Research
+    University of Michigan College of Engineering
+    PhD Defended August 2022"
     
   - image_path: /assets/images/home/home_gallery_icons-03.svg
-    alt: "Jump Around Bucky"
+    alt: "Computer icon"
     title: "Health IT"
-    excerpt: "Ex-Epic"
+    excerpt: "Developing & Deploying Health IT
+    Ex-Epic
+    "
 
 
 intro: 
@@ -78,7 +86,7 @@ feature_row4:
 
 {% include feature_row id="hero_row" type="left" %}
 
-{% include feature_row id="background_row" %}
+{% include feature_row id="background_row"  type="center" %}
 
 
 
