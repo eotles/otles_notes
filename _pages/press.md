@@ -1,4 +1,4 @@
 ---
-title: Research
-permalink: /research/
+title: Press
+permalink: /press/
 ---
