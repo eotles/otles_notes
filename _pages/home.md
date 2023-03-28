@@ -25,20 +25,21 @@ background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
     title: "Medicine"
-    excerpt: "Medical Scientist Training Program <br> University of Michigan Medical School
+    excerpt: "Medical Scientist Training Program<br>
+    University of Michigan Medical School<br>
     MD Expected May 2024"
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Icon representing variable X1"
     title: "Engineering"
-    excerpt: "Artificial Intelligence & Operations Research
-    University of Michigan College of Engineering
+    excerpt: "Artificial Intelligence & Operations Research<br>
+    University of Michigan College of Engineering<br>
     PhD Defended August 2022"
     
   - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Computer icon"
     title: "Health IT"
-    excerpt: "Developing & Deploying Health IT
+    excerpt: "Developing & Deploying Health IT<br>
     Ex-Epic
     "
 
