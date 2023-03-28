@@ -25,8 +25,7 @@ background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
     title: "Medicine"
-    excerpt: "Medical Scientist Training Program
-    University of Michigan Medical School
+    excerpt: "Medical Scientist Training Program <br> University of Michigan Medical School
     MD Expected May 2024"
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
