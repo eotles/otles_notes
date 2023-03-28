@@ -25,7 +25,7 @@ background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
     title: "Medicine"
-    excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24.{: style="text-align: center;"}"
+    excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24."{: style="text-align: center;"}
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Icon representing variable X1"
