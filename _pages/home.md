@@ -20,17 +20,17 @@ hero_row:
     
     
 background_row:
-  - image_path: assets/images/heart-pulse-solid.svg
+  - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "University of Michigan logo"
     title: "Medicine"
     excerpt: "Medical Scientist Training Program"
     
-  - image_path: /assets/images/subscript-solid.svg
+  - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Jump Around Bucky"
     title: "Engineering"
     excerpt: "Artificial Intelligence & Operations Research"
     
-  - image_path: /assets/images/computer-solid.svg
+  - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Jump Around Bucky"
     title: "Health IT"
     excerpt: "Ex-Epic"
