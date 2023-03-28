@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /projects/
+permalink: /test/
 layout: test
 ---
 
