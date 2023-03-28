@@ -24,7 +24,7 @@ hero_row:
 background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
-    title: "<p align="center">Medicine</p>"
+    title: "Medicine"
     excerpt: "Medical Scientist Training Program<br>
     University of Michigan Medical School<br>
     MD Expected May 2024"
@@ -32,11 +32,9 @@ background_row:
   - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Icon representing variable X1"
     title: "Engineering"
-    excerpt: "<p align="center">
-      Artificial Intelligence & Operations Research<br>
+    excerpt: "Artificial Intelligence & Operations Research<br>
       University of Michigan College of Engineering<br>
-      PhD Defended August 2022
-      </p>"
+      PhD Defended August 2022"
     
   - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Computer icon"
