@@ -12,6 +12,24 @@ author_profile: false
 # https://github.com/mmistakes/minimal-mistakes/issues/627#issuecomment-536759630
 # permalink: /blog/
 
+
+hero_row:
+  - image_path: /assets/images/exo_headshot_square.png
+    alt: "Erkin Otles"
+    title: "Hello, World!"
+    excerpt: 'My name is Erkin Ötleş & I’m a physician-engineer. This is my website focused on engineering & medicine.
+    
+    
+    I am currently at the University of Michigan, completing my final year of combined MD-PhD training.
+    Previously I worked as an engineer at Epic and led a healthcare data science team.
+    I am an expert in developing & implementing artificial intelligence tools in healthcare.
+    
+    
+    '
+    url: "/about/"
+    btn_label: "More About Me"
+    btn_class: "btn--primary"
+
 background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
