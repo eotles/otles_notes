@@ -48,18 +48,18 @@ research_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Research"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: 'Intersection of artificial intelligence & medicine, focusing on the interface between clinical workflows and predictive models. Methods across clinical informatics, machine learning, and operations research. Works span the healthcare AI lifecycle with projects advancing from model development to validation, technical integration, and workflow implementation.'
+    url: "/research/"
+    btn_label: "More Research"
     btn_class: "btn--primary"
     
-news_row:
+press_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "News"
+    title: "Press"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "See News"
     btn_class: "btn--primary"
 ---
 
@@ -68,11 +68,13 @@ news_row:
 
 {% include feature_row id="background_row" %}
 
+{% include feature_row id="research_row" type="right" %}
+
+{% include feature_row id="press_row" type="left" %}
+
 
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="research_row" type="right" %}
 
-{% include feature_row id="news_row" type="left" %}
 
