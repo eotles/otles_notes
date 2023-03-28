@@ -24,7 +24,7 @@ hero_row:
 background_row:
   - image_path: assets/images/home/home_gallery_icons-01.svg
     alt: "Heart icon with ECG tracing"
-    title: "[Medicine](/about/)"
+    title: "Medicine"
     excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24."
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
@@ -36,27 +36,10 @@ background_row:
     alt: "Computer icon"
     title: "Health IT"
     excerpt: "Deep experience integrating AI in healthcare; millions of predicitions on patients. Ex-Epic engineer."
-    url: "/about/"
 
 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-
-education_row:
-  - image_path: assets/images/empty_550x1.png
-    alt: "University of Michigan logo"
-    title: "University of Michigan"
-    excerpt: "Medical Scientist Training Program (MD/PhD), Industrial & Operations Engineering. "
-    
-  - image_path: /assets/images/empty_550x1.png
-    alt: "Jump Around Bucky"
-    title: "University of Wisconsin"
-    excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
-    
-  - image_path: /assets/images/empty_550x1.png
-    alt: "Jump Around Bucky"
-    title: "University of Wisconsin"
-    excerpt: "Master of Engineering (M.Eng.), Industrial & Systems Engineering - Decision Science and Operations Research & Computer Science. Bachelor of Science, Industrial & Systems Engineering."
 
     
     
@@ -68,6 +51,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -86,8 +70,6 @@ feature_row4:
 
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="education_row" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
