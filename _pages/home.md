@@ -37,30 +37,39 @@ background_row:
     title: "Health IT"
     excerpt: "Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer."
 
-
-intro: 
-  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* William Osler<br> 
-    *All models are wrong, but some are useful.* George Box'
-
     
     
 research_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/home/chart-line-solid.svg
     alt: "placeholder image 2"
     title: "Research"
-    excerpt: 'Intersection of artificial intelligence & medicine, focusing on the interface between clinical workflows and predictive models. Methods across clinical informatics, machine learning, and operations research. Works span the healthcare AI lifecycle with projects advancing from model development to validation, technical integration, and workflow implementation.'
+    excerpt: 'My research is at the intersection of AI & healthcare, with a focus on the interface between clinical workflows and predictive models. I utilize methods from the domains of clinical informatics, machine learning, and operations research. My work spans the healthcare AI lifecycle with projects advancing from model development/evaluation, technical integration, and connection with clinical workflows.'
     url: "/research/"
     btn_label: "More Research"
     btn_class: "btn--primary"
     
+projects_row:
+  - image_path: /assets/images/home/diagram-project-solid.svg
+    alt: "placeholder image 2"
+    title: "Projects"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "/projects/"
+    btn_label: "More Projects"
+    btn_class: "btn--primary"
+    
 press_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/home/newspaper-regular.svg
     alt: "placeholder image 2"
     title: "Press"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "See News"
+    url: "/press/"
+    btn_label: "See Press"
     btn_class: "btn--primary"
+    
+    
+intro: 
+  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* William Osler<br> 
+    *All models are wrong, but some are useful.* George Box'
 ---
 
 
@@ -70,7 +79,9 @@ press_row:
 
 {% include feature_row id="research_row" type="right" %}
 
-{% include feature_row id="press_row" type="left" %}
+{% include feature_row id="projects_row" type="left" %}
+
+{% include feature_row id="press_row" type="right" %}
 
 
 
