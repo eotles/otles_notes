@@ -36,7 +36,6 @@
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
-
       </div>
 
       {% if f.url %}
@@ -44,6 +43,7 @@
       {% endif %}
 
     </div>
+  </div>
   
   {% endfor %}
 
