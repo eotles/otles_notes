@@ -46,8 +46,28 @@ background_row:
     title: "Health IT"
     excerpt: "Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer."
 
+
+highlights_row:
+  - image_path: assets/images/home/home_gallery_icons-04.svg
+    alt: "line chart icon"
+    title: "Research"
+    excerpt: 'My research is at the intersection of AI & healthcare, with a focus on the interface between clinical workflows and predictive models. I utilize methods from the domains of clinical informatics, machine learning, and operations research. My work spans the healthcare AI lifecycle with projects advancing from model development/evaluation, technical integration, and connection with clinical workflows.'
+    url: "/categories/research/"
     
+  - image_path: /assets/images/home/home_gallery_icons-05.svg
+    alt: "network graph icon"
+    title: "Projects"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "/categories/#projects/"
     
+  - image_path: /assets/images/home/home_gallery_icons-06.svg
+    alt: "newspaper icon"
+    title: "Press"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "/categories/#press"
+
+
+
 research_row:
   - image_path: /assets/images/home/home_gallery_icons-04.svg
     alt: "line chart icon"
