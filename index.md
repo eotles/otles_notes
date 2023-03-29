@@ -52,15 +52,15 @@ background_row:
 
 highlights_row:
   - title: "Research"
-    excerpt: 'My research is at the intersection of AI & healthcare, with a focus on the interface between clinical workflows and predictive models. I utilize methods from the domains of clinical informatics, machine learning, and operations research. My work spans the healthcare AI lifecycle with projects advancing from model development/evaluation, technical integration, and connection with clinical workflows.'
+    excerpt: 'I focus on the interface between clinical workflows & predictive models. I utilize methods from the domains of clinical informatics, machine learning, & operations research.'
     url: "/categories/#research/"
     
   - title: "Projects"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'My projects range from health system AI implementation to iOS application development.'
     url: "/categories/#projects/"
     
   - title: "Press"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'my work has been covered in outlets like the Wall Street Journal and Wired.'
     url: "/categories/#press"
     
     
