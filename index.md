@@ -59,38 +59,9 @@ highlights_row:
   - title: "Press"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "/categories/#press"
-
-
-
-research_row:
-  - image_path: /assets/images/home/home_gallery_icons-04.svg
-    alt: "line chart icon"
-    title: "Research"
-    excerpt: 'My research is at the intersection of AI & healthcare, with a focus on the interface between clinical workflows and predictive models. I utilize methods from the domains of clinical informatics, machine learning, and operations research. My work spans the healthcare AI lifecycle with projects advancing from model development/evaluation, technical integration, and connection with clinical workflows.'
-    url: "/categories/research/"
-    btn_label: "More Research"
-    btn_class: "btn--primary"
-    
-projects_row:
-  - image_path: /assets/images/home/home_gallery_icons-05.svg
-    alt: "network graph icon"
-    title: "Projects"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "/categories/#projects/"
-    btn_label: "More Projects"
-    btn_class: "btn--primary"
-    
-press_row:
-  - image_path: /assets/images/home/home_gallery_icons-06.svg
-    alt: "newspaper icon"
-    title: "Press"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "/categories/#press"
-    btn_label: "See Press"
-    btn_class: "btn--primary"
     
     
-intro: 
+quotes: 
   - excerpt: '*Medicine is a science of uncertainty and an art of probability.* William Osler<br> 
     *All models are wrong, but some are useful.* George Box'
 ---
@@ -98,16 +69,18 @@ intro:
 
 {% include feature_row id="hero_row" type="left" %}
 
-{% include feature_row id="background_row" %}
+{% include exo_feature_row id="background_row" %}
 
 {% include exo_feature_row id="highlights_row" %}
 
-{% include feature_row id="research_row" type="right" %}
-
-{% include feature_row id="projects_row" type="left" %}
-
-{% include feature_row id="press_row" type="right" %}
+{% include feature_row id="quotes" type="center" %}
 
 
-
-{% include feature_row id="intro" type="center" %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in site.posts limit:5 %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
