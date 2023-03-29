@@ -35,16 +35,19 @@ background_row:
     alt: "Heart icon with ECG tracing"
     title: "Medicine"
     excerpt: "Medical Scientist Training Program @ University of Michigan Medical School. MD expected May '24."
+    url: /about/#medicine
     
   - image_path: /assets/images/home/home_gallery_icons-02.svg
     alt: "Icon representing variable X1"
     title: "Engineering"
     excerpt: "PhD in AI & Operations Research @ University of Michigan College of Engineering. Defended August '22."
+    url: /about/#engineering
     
   - image_path: /assets/images/home/home_gallery_icons-03.svg
     alt: "Computer icon"
     title: "Health IT"
     excerpt: "Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer."
+    url: /about/#health-IT
 
 
 highlights_row:
