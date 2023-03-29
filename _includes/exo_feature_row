@@ -13,7 +13,7 @@
       <div class="archive__item">
 
         {% if f.url %}
-        <a href="{{ f.url | relative_url }}">
+        <a href="{{ f.url | relative_url }}" class="region">
         {% endif %}
 
         {% if f.image_path %}
