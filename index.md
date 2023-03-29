@@ -86,6 +86,8 @@ intro:
 
 {% include feature_row id="background_row" %}
 
+{% include exo_feature_row id="background_row" %}
+
 {% include feature_row id="research_row" type="right" %}
 
 {% include feature_row id="projects_row" type="left" %}
