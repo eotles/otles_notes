@@ -65,8 +65,8 @@ highlights_row:
     
     
 quotes: 
-  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* William Osler<br> 
-    *All models are wrong, but some are useful.* George Box'
+  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* <br> - William Osler - <br> 
+    *All models are wrong, but some are useful.* <br> - George Box -'
 ---
 
 
