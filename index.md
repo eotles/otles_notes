@@ -75,9 +75,9 @@ quotes:
 {% include exo_feature_row id="background_row" %}
 
 
-<div id="quote_box" style = "background:black">
+<div id="quote_box" style = "background:#646769">
   <div id="content">
-    <p style="text-align:center; color: #ff0000;">
+    <p style="text-align:center; color:white">
       <i>Nice quote.</i><br>
       - Author
     </p>
