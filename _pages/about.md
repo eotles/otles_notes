@@ -17,7 +17,7 @@ MD expected May 2024
 
 Medicine has been a central aspect of my journey and has profoundly shaped my professional and personal interests. 
 
-I started my medical training as a Medical Scientist Training Program (MSTP) Fellow at the University of Michigan in 2016. The Michigan MSTP is a National Institute of Health-funded program designed to train physician-scientists by integrating medical education with scientific training. Graduates have an MD and a PhD and may work as physicians and/or researchers in academia, private practice, or industry. In addition to rigorous training, the Michigan MSTP has allowed me to work with and mentor other physician-scientists in training. I was a founding editor of "The Pipette," the semi-official Michigan MSTP journal (newsletter). The program even let me co-chair our 2021 annual scientific retreat.
+I started my medical training as a Medical Scientist Training Program (MSTP) Fellow at the University of Michigan in 2016. The Michigan MSTP is a National Institute of Health-funded program designed to train physician-scientists by integrating medical education with scientific training. In addition to rigorous training, the Michigan MSTP has allowed me to work with and mentor other physician-scientists in training. I was a founding editor of "The Pipette," the semi-official Michigan MSTP journal (newsletter). The program even let me co-chair our 2021 annual scientific retreat.
 
 In my first two years in the program, I completed my medical school didactic and core clinical coursework. This exposure to real-life clinical decision-making and hands-on experience in patient care greatly informed my PhD research. I was able to draw on my clinical knowledge to develop data-driven solutions to pressing healthcare problems. Additionally,  clinical needs remained an essential driver of my research focus. Working closely with physician-researchers was one of the best aspects of my PhD training.
 
@@ -29,11 +29,25 @@ I have found clinical medicine to be challenging and rewarding. There are many c
 
 
 # Engineering
-PhD in AI & Operations Research @ University of Michigan College of Engineering. Defended August ‘22.
+University of Michigan College of Engineering<br>
+Industrial and Operations Engineering & AI Lab<br>
+PhD defended August ‘22
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+University of Wisconsin College of Engineering<br>
+Decisions Science & Operations Research (Concentration: Computer Science)<br>
+MS May ‘16
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+University of Wisconsin College of Engineering<br>
+Industrial and Systems Engineering<br>
+BS May ‘16
+
+As an engineer, I am passionate about using data-driven approaches to develop innovative solutions to complex problems in medicine and health. With a strong background in industrial engineering and computer science, I have a unique perspective on the intersection of engineering and healthcare.
+
+During my training, I gained extensive experience in developing and applying computational methods to healthcare data. I have expertise in machine learning, natural language processing, and data visualization, and I have applied these skills to a wide range of healthcare challenges, from predicting patient outcomes to identifying patterns in electronic medical record data.
+
+I am also interested in the development of novel technologies to improve healthcare delivery. I believe that technologies such as wearables, mobile apps, and telemedicine have the potential to transform the way we approach healthcare, and I am excited to be part of this innovation.
+
+Through my work as an engineer, I am committed to advancing health by harnessing the power of data and technology. Whether through developing new algorithms, building innovative tools, or collaborating with clinicians, I am dedicated to using my skills to make a positive impact on healthcare.
 
 # Health IT
 Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer.
