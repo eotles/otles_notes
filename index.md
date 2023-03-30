@@ -81,7 +81,7 @@ osler_quote:
 {% include exo_feature_row id="highlights_row" %}
 
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Blog Posts" }}</h3>
   
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
