@@ -3,7 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: exo_home
-classes: wide
 author_profile: false
 
 #sidebar:
@@ -75,15 +74,13 @@ quotes:
 
 {% include exo_feature_row id="background_row" %}
 
-#container {
-  background: #ffffff;
-}
 
 <div id="quote_box">
   <div id="content">
-    Nice quote.
+    _Nice quote._
   </div>
 </div>
+
 
 {% include exo_feature_row id="highlights_row" %}
 
