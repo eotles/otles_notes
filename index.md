@@ -77,7 +77,7 @@ quotes:
 
 <div id="quote_box">
   <div id="content">
-    <i>Nice quote.<i>
+    <i>Nice quote.</i>
   </div>
 </div>
 
