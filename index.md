@@ -75,6 +75,16 @@ quotes:
 
 {% include exo_feature_row id="background_row" %}
 
+#container {
+  background: #ffffff;
+}
+
+<div id="quote_box">
+  <div id="content">
+    Nice quote.
+  </div>
+</div>
+
 {% include exo_feature_row id="highlights_row" %}
 
 {% include feature_row id="quotes" type="center" %}
