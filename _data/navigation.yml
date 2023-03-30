@@ -3,6 +3,12 @@ main:
      url: /blog/
    - title: "About"
      url: /about/
+   - title: "Research"
+     url: /research/
+   - title: "Projects"
+     url: /projects/
+   - title: "Press"
+     url: /press/
    - title: "Mission"
      url: /mission-values/
    - title: "FAQs"
