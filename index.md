@@ -47,21 +47,21 @@ background_row:
     alt: "Computer icon"
     title: "Health IT"
     excerpt: "Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer."
-    url: /about/#health-IT
+    url: /about/#health-it
 
 
 highlights_row:
   - title: "Research"
     excerpt: 'I focus on the interface between clinical workflows & predictive models. I utilize methods from the domains of clinical informatics, machine learning, & operations research.'
-    url: "/categories/#research/"
+    url: "/research/"
     
   - title: "Projects"
     excerpt: 'My projects range from health system AI implementation to iOS application development.'
-    url: "/categories/#projects/"
+    url: "/projects/"
     
   - title: "Press"
     excerpt: 'my work has been covered in outlets like the Wall Street Journal and Wired.'
-    url: "/categories/#press"
+    url: "/press/"
     
     
 box_quote: 
