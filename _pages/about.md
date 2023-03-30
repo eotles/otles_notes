@@ -11,8 +11,8 @@ I am also interested in incorporating education about AI tools into medical curr
 
 
 # Medicine
-University of Michigan Medical School
-Medical Scientist Training Program
+University of Michigan Medical School<br>
+Medical Scientist Training Program<br>
 MD expected May 2024
 
 Medicine has been a central aspect of my journey and has profoundly shaped my professional and personal interests. 
