@@ -64,9 +64,11 @@ highlights_row:
     url: "/categories/#press"
     
     
-quotes: 
-  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* <br> - William Osler - <br> 
-    *All models are wrong, but some are useful.* <br> - George Box -'
+box_quote: 
+  - excerpt: '*All models are wrong, but some are useful.* <br> - George Box -'
+    
+osler_quote: 
+  - excerpt: '*Medicine is a science of uncertainty and an art of probability.* <br> - William Osler -'
 ---
 
 
@@ -74,17 +76,8 @@ quotes:
 
 {% include exo_feature_row id="background_row" %}
 
-
-<div id="quote_box" style = "background:#646769">
-  <div id="content">
-    <p style="text-align:center; color:white">
-      <i>Nice quote.</i><br>
-      - Author
-    </p>
-  </div>
-</div>
-
+{% include feature_row id="box_quote" type="center" %}
 
 {% include exo_feature_row id="highlights_row" %}
 
-{% include feature_row id="quotes" type="center" %}
+{% include feature_row id="osler_quote" type="center" %}
