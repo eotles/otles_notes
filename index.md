@@ -69,6 +69,10 @@ box_quote:
     
 osler_quote: 
   - excerpt: '*Medicine is a science of uncertainty and an art of probability.* <br> - William Osler -'
+
+empty_row:
+
+
 ---
 
 
@@ -90,5 +94,8 @@ osler_quote:
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
+
+
+{% include feature_row id="empty_row" type="center" %}
 
 {% include feature_row id="osler_quote" type="center" %}
