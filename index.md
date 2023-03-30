@@ -77,7 +77,10 @@ quotes:
 
 <div id="quote_box">
   <div id="content">
-    <i>Nice quote.</i>
+    <p style="text-align:center;">
+      <i>Nice quote.</i><br>
+      - Author
+    </p>
   </div>
 </div>
 
