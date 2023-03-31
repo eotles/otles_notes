@@ -9,6 +9,8 @@ main:
      url: /projects/
    - title: "Press"
      url: /press/
+   - title: "Talks"
+     url: /talks/
    - title: "Mission"
      url: /mission-values/
    - title: "FAQs"
