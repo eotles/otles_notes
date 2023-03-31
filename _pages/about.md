@@ -31,15 +31,15 @@ I have found clinical medicine to be challenging and rewarding. There are many c
 # Engineering
 University of Michigan College of Engineering<br>
 Industrial and Operations Engineering & AI Lab<br>
-PhD defended August ‘22
+PhD defended August 2022
 
 University of Wisconsin College of Engineering<br>
 Decisions Science & Operations Research (Concentration: Computer Science)<br>
-MS May ‘16
+MS May 2016
 
 University of Wisconsin College of Engineering<br>
 Industrial and Systems Engineering<br>
-BS May ‘16
+BS May 2011
 
 As an engineer, I am passionate about using data-driven approaches to develop innovative solutions to complex problems in medicine and health. With a strong background in industrial engineering and computer science, I have a unique perspective on the intersection of engineering and healthcare.
 
@@ -52,6 +52,6 @@ Through my work as an engineer, I am committed to advancing health by harnessing
 # Health IT
 Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer.
 
-I've developed a deep understanding of healthcare IT systems and the role they play in improving patient care. During my time as a solutions engineer at Epic, I gained insight into the EMR installation and maintenance processes. I helped manage PQRS and meaningful use reporting, and use data-driven approaches to debug and maintain software. I also contributed to the development of registry tools for accountable care organizations within the EpicCare Ambulatory module.
+I've developed a deep understanding of healthcare IT systems and the role they play in improving patient care. During my time as a solutions engineer at Epic, I actively supported the EMR installation and maintenance processes and was certified on multiple Epic modules (Ambulatory, MiChart, In Patient, and various data models). I helped manage PQRS and meaningful use reporting, and developed data-driven approaches to debug software. I also contributed to the development of registry tools for accountable care organizations within the EpicCare Ambulatory module.
 
-My current work has allowed me to further explore the intersection of healthcare and technology. In particular, my dissertation involved deploying AI tools in EMRs to help clinicians. As a result I have experience using both Epic (Nebula/ECCP) and non-Epic tools to accomplish to implement AI tools. As a result, I have a keen understanding of the challenges associated with implementing AI in healthcare settings and the importance of ensuring that these tools are reliable, secure, and easy to use.
+My current work has allowed me to further explore the intersection of healthcare and technology. In particular, my dissertation involved deploying AI tools in EMRs to help clinicians. I have implemented multiple AI tools into the EMR and using both Epic (Nebula/ECCP) and non-Epic tools. These tools have been run millions of times on hundreds of thousands of hospitalized patient. As a result of this ongoign wokr I have a keen understanding of the technical challenges associated with implementing AI in healthcare.
