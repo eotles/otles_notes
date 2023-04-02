@@ -23,7 +23,7 @@ github_username: eotles
 minimal_mistakes_skin: "default"
 search: true
 
-url: https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://eotles.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/otles_notes" # the subpath of your site, e.g. "/blog"
 
 # Build settings
