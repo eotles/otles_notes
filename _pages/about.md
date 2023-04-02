@@ -27,7 +27,6 @@ After defending my dissertation, I returned to medical school. I am currently an
 I have found clinical medicine to be challenging and rewarding. There are many challenges to tackle, ranging from imperfect information to operational issues to poor software design. It can be daunting! However, building clinical decision-making and procedural skills and utilizing these skills in service of humankind has been immensely gratifying.
 
 
-
 # Engineering
 University of Michigan College of Engineering<br>
 Industrial and Operations Engineering & AI Lab<br>
@@ -49,9 +48,49 @@ I am also interested in the development of novel technologies to improve healthc
 
 Through my work as an engineer, I am committed to advancing health by harnessing the power of data and technology. Whether through developing new algorithms, building innovative tools, or collaborating with clinicians, I am dedicated to using my skills to make a positive impact on healthcare.
 
+
 # Health IT
 Deep experience integrating AI in healthcare; millions of predictions on patients. Ex-Epic engineer.
 
 I've developed a deep understanding of healthcare IT systems and the role they play in improving patient care. During my time as a solutions engineer at Epic, I actively supported the EMR installation and maintenance processes and was certified on multiple Epic modules (Ambulatory, MiChart, In Patient, and various data models). I helped manage PQRS and meaningful use reporting, and developed data-driven approaches to debug software. I also contributed to the development of registry tools for accountable care organizations within the EpicCare Ambulatory module.
 
 My current work has allowed me to further explore the intersection of healthcare and technology. In particular, my dissertation involved deploying AI tools in EMRs to help clinicians. I have implemented multiple AI tools into the EMR and using both Epic (Nebula/ECCP) and non-Epic tools. These tools have been run millions of times on hundreds of thousands of hospitalized patient. As a result of this ongoign wokr I have a keen understanding of the technical challenges associated with implementing AI in healthcare.
+
+
+# Work
+EpicCare Ambulatory Solution Engineer <br>
+Epic <br>
+2012 – 2013 <br>
+
+Designed and developed analytics tools & strategies for Health Systems moving towards ACO models of care. Led technical support of two customer implementations. Managed and resolved install issue escalations often managing teams containing internal developers, customer technical and clinical teams.
+
+
+Health Systems Engineering Intern <br>
+University of Wisconsin Hospital and Clinics <br>
+2010 – 2012 <br>
+
+Led design of next generation of inpatient rooms. Developed data mining tools & processes to analyze quality of care as well as patient satisfaction.
+
+
+
+HR Analytics Intern <br>
+Epic <br>
+2011 <br>
+
+Mining data from various recruiting systems, databases, and email archives. Built and analyzed databases to help identify key attributes of the best candidates and employees.
+
+
+
+Industrial Engineer Co-op <br>
+Boston Scientific <br>
+2009-2010 <br>
+
+Optimized the production lines of two next-gen cardiac pacing leads. Scheduled clean-room & production shutdowns for machine and utilities installations. Developed new machine acceptance program.
+
+
+
+Manufacturing Engineer <br>
+Electronic Theatre Controls <br>
+2008, 2010 <br>
+
+Some design for manufacturability & line design. Got my hands dirty by machining, wiring, assembling new testing fixtures.
