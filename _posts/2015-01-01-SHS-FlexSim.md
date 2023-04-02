@@ -2,7 +2,7 @@
 title: "2015 FlexSim - SHS Emergency Department Modeling Competition"
 categories:
   - Blog
-  - Projects
+  - Project
 tags:
   - operations research
   - healthcare
