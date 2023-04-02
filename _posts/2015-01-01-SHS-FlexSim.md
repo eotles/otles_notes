@@ -9,8 +9,6 @@ tags:
   - emergency medicine
   - health system engineering
   - simulation
-header:
-  image: /assets/images/dia_stain_glass.png
 ---
 
 
