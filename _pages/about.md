@@ -61,14 +61,12 @@ My current work has allowed me to further explore the intersection of healthcare
 EpicCare Ambulatory Solution Engineer <br>
 Epic <br>
 2012 – 2013 <br>
-
 Designed and developed analytics tools & strategies for Health Systems moving towards ACO models of care. Led technical support of two customer implementations. Managed and resolved install issue escalations often managing teams containing internal developers, customer technical and clinical teams.
 
 
 Health Systems Engineering Intern <br>
 University of Wisconsin Hospital and Clinics <br>
 2010 – 2012 <br>
-
 Led design of next generation of inpatient rooms. Developed data mining tools & processes to analyze quality of care as well as patient satisfaction.
 
 
@@ -76,7 +74,6 @@ Led design of next generation of inpatient rooms. Developed data mining tools & 
 HR Analytics Intern <br>
 Epic <br>
 2011 <br>
-
 Mining data from various recruiting systems, databases, and email archives. Built and analyzed databases to help identify key attributes of the best candidates and employees.
 
 
@@ -84,7 +81,6 @@ Mining data from various recruiting systems, databases, and email archives. Buil
 Industrial Engineer Co-op <br>
 Boston Scientific <br>
 2009-2010 <br>
-
 Optimized the production lines of two next-gen cardiac pacing leads. Scheduled clean-room & production shutdowns for machine and utilities installations. Developed new machine acceptance program.
 
 
@@ -92,5 +88,4 @@ Optimized the production lines of two next-gen cardiac pacing leads. Scheduled c
 Manufacturing Engineer <br>
 Electronic Theatre Controls <br>
 2008, 2010 <br>
-
 Some design for manufacturability & line design. Got my hands dirty by machining, wiring, assembling new testing fixtures.
