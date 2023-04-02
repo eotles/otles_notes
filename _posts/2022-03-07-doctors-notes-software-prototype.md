@@ -2,7 +2,7 @@
 title: "Doctor’s Notes Software Prototype"
 categories:
   - Blog
-  - Projects
+  - Project
 tags:
   - health IT
   - doctor’s notes
