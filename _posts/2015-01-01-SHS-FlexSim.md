@@ -18,7 +18,4 @@ The goal was to analyze the current operations of the Susquehanna Health ED and 
 
 We used a combination of discrete event simulation (FlexSim healthcare software), design of experiements, and mathematical programming to determine the ideal care delivery model. See below for a copy of our wining presentation.
 
-
-<object data="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf" width="500" height="375" type="application/pdf"></object>
-
-[Link to presentation.]({{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf)
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf" width="100%" height="86%"></iframe>
