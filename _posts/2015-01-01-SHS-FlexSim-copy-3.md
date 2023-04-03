@@ -1,5 +1,5 @@
 ---
-title: "2015 FlexSim - SHS Emergency Department Modeling Competition - Test 2"
+title: "2015 FlexSim - SHS Emergency Department Modeling Competition - Test 3"
 categories:
   - Blog
   - Project
