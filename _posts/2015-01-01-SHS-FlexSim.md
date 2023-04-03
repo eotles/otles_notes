@@ -22,3 +22,5 @@ We used a combination of discrete event simulation (FlexSim healthcare software)
     width="100%" 
     style="aspect-ratio: 11 / 8.5;">
 </iframe>
+
+[Link to presentation.]({{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf)
