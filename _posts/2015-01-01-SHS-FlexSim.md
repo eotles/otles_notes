@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Lead the University of Wisconsin team to victory in the 2015 FlexSim - SHS Emergency Department Modeling Competition. This was a national competition that involved optimizing the operations of an emergency department (ED) using discrete event simulaiton and operations research tools.
+Led the University of Wisconsin team to victory in the 2015 FlexSim - SHS Emergency Department Modeling Competition. This was a national competition that involved optimizing the operations of an emergency department (ED) using discrete event simulaiton and operations research tools.
 
 The goal was to analyze the current operations of the Susquehanna Health ED and to determine the best care delivery model to meet productivity requirements while satisfying staffing and care constraints.
 
@@ -21,4 +21,4 @@ We used a combination of discrete event simulation (FlexSim healthcare software)
 <iframe src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf" 
     width="100%" 
     style="aspect-ratio: 11 / 8.5;">
-</iframe>></iframe>
+</iframe>
