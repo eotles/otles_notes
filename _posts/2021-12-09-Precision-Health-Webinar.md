@@ -1,5 +1,5 @@
 ---
-title: "Precsion Health Webinar: What Clinicians Need to Know when Using AI"
+title: "Precision Health Webinar: What Clinicians Need to Know when Using AI"
 categories:
   - Blog
   - Talk
