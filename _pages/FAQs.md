@@ -4,7 +4,7 @@ title: "FAQs"
 ---
 
 ## Who are you?
-I'm [Erkin]({{site.baseurl}/about/)!
+I'm [Erkin]({{site.baseurl}}/about/)!
 
 ## What are you doing?
 Primarily training to be a physician-engineer. I also like cooking, eating, traveling, and coding. In addition to long walks on the beach, I also enjoy watching [space documentaries](https://en.wikipedia.org/wiki/Moon_Machines)
