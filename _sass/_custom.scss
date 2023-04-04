@@ -18,20 +18,3 @@ a.region:active {
       text-decoration: none;
       color: inherit !important;
 }
-
-
-/* links */
-a {
-  &:focus {
-    @extend %tab-focus;
-  }
-
-  &:visited {
-    color: $link-color;
-  }
-
-  &:hover {
-    color: $link-color-hover;
-    outline: 0;
-  }
-}
