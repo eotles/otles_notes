@@ -18,3 +18,14 @@ a.region:active {
       text-decoration: none;
       color: inherit !important;
 }
+
+
+/* links */
+
+a {
+
+  &:visited {
+    color: $link-color;
+  }
+
+}
