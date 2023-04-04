@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - UI/UX
-  - human factors
+  - human factors engineering
   - healthcare IT
   - Microsoft Word
   - mouse cursor
