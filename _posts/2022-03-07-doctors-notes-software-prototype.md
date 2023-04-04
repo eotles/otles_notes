@@ -10,11 +10,13 @@ tags:
   - software design
   - UI/UX
   - human factors engineering
+excerpt: "A project that was focused on examining and improving the way doctor’s notes are written."
 ---
 
-![image](https://user-images.githubusercontent.com/6284187/157065025-c146a4e1-cd7e-4410-bb2e-8378ef2cd438.png)
 
 We will return to the “Intro to ML for Physicians” series next week. In the intervening time here’s a short post about a prototype health IT app I made a two years ago. I made this app as part of a team project that was focused on examining and improving the way doctor’s notes are written.
+
+![image](https://user-images.githubusercontent.com/6284187/157065025-c146a4e1-cd7e-4410-bb2e-8378ef2cd438.png)
 
 Nominally this was a graduate project (holler at my HCI team[^1]) and the project specification called for making a low-functionality prototype using invision. [1], We did this and found it unsatisfying. The reason for this was that we wanted to incorporate a voice transcription interface into the note writing process. Although we could replicate some of the other functionality there was no way to build voice transcription and other key functionality in the prototyping software.
 
