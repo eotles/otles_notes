@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - medicine
+  - healthcare
+  - primary care
   - industrial engineering
   - human factors engineering
 ---
