@@ -52,7 +52,7 @@ background_row:
 
 highlights_row:
   - title: "Research"
-    excerpt: 'I focus on the interface between clinical workflows & predictive models. I utilize methods from the domains of clinical informatics, machine learning, & operations research.'
+    excerpt: 'I focus on the interface between clinical workflows & predictive models. I use methods from clinical informatics, machine learning, & operations research.'
     url: "/research/"
     
   - title: "Projects"
@@ -60,7 +60,7 @@ highlights_row:
     url: "/projects/"
     
   - title: "Press"
-    excerpt: 'my work has been covered in outlets like the Wall Street Journal and Wired.'
+    excerpt: 'My work has been covered in outlets like STAT News, Wall Street Journal, and Wired.'
     url: "/press/"
     
     
