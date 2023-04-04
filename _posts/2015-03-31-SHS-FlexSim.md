@@ -18,7 +18,7 @@ This case competition involved optimizing the operations of an emergency departm
 
 We used a combination of discrete event simulation (FlexSim healthcare software), design of experiments, and mathematical programming to determine the ideal care delivery model. See below for a copy of our winning presentation.
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf" 
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-SHS-FlexSim/Public_SHS_Flexim.pdf" 
     style="aspect-ratio: 11 / 8.5;"
     width="100%" 
 >
