@@ -11,7 +11,7 @@ tags:
   - operations research
 ---
 
-Jeeheh Oh and I presented our work on dataset shift at the 2021 Machine Learning for Healthcare Conference. This talk briefly summarizes our [our conference paper]({{ site.baseurl }}{% link _posts/2021-08-05-MLHC-Presentation.md %}).
+Jeeheh Oh and I presented our work on dataset shift at the 2021 Machine Learning for Healthcare Conference. This talk briefly summarizes our [our conference paper]({{ site.baseurl }}{% link _posts/2021-08-01-Mind-the-Performance-Gap.md %}).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vZ3MnINPvTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
