@@ -6,6 +6,7 @@ categories:
 tags:
   - iOS
   - mobile development
+  - software development
   - Apple
 ---
 
