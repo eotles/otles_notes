@@ -11,6 +11,7 @@ tags:
   - healthcare
   - industrial engineering
   - health system engineering
+  - human factors engineering
   - I-PrACTISE
 ---
 
