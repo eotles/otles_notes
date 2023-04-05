@@ -23,7 +23,7 @@ White paper summarizing our work at Metastar.
 >
 </iframe>
 
-[Link to presentation.]({{ site.url }}{{ site.baseurl }}/assets/papers/community_pharmacy_initiative_reducing_readmissions_by_increasing_adherence.pdf)
+[Link to paper.]({{ site.url }}{{ site.baseurl }}/assets/papers/community_pharmacy_initiative_reducing_readmissions_by_increasing_adherence.pdf)
 
 ## Abstract
 ### Background
