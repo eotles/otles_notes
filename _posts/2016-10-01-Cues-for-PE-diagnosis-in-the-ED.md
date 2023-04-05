@@ -16,12 +16,12 @@ tags:
 American Medical Informatics Association Annual Symposium abstract. Work done in conjunction with Drs. Brian Patterson, Ann Schoofs Hundt, Peter Hoonakker, and Pascale Carayon.
 
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/cues_for_PE_diagnosis_in_the_ED.pdf.pdf" 
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/cues_for_PE_diagnosis_in_the_ED.pdf" 
     style="aspect-ratio: 8.5 / 11;"
     width="100%" 
 >
 </iframe>
-[Link to paper.]({{ site.url }}{{ site.baseurl }}/assets/papers/cues_for_PE_diagnosis_in_the_ED.pdf)
+[Link to abstract.]({{ site.url }}{{ site.baseurl }}/assets/papers/cues_for_PE_diagnosis_in_the_ED.pdf)
 
 ## Abstract
 Pulmonary embolus (PE) is among the most challenging diagnoses made in the emergency department (ED).  While missed or delayed diagnosis of PE is a major problem in the ED1, overtesting, which subjects patients to harm from radiation, overdiagnosis, and increased cost, is also a concern2.  Health information technology, such as clinical decision support, has the potential to reduce diagnostic errors and support the diagnostic process.3 However, this requires that the technology be useful and usable, and fit within the clinical workflow, providing justification for a sociotechnical systems approach.4 The purpose of this study is to understand cues in the PE diagnosis process in the ED sociotechnical system and to compare these cues to the information available in the EHR. This will help in defining design requirements for a clinical decision support for PE diagnosis in the ED.
