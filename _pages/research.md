@@ -10,7 +10,7 @@ My research is at the intersection of AI & healthcare, with a focus on the inter
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in site.tags['Research'] limit:10 %}
+  {% for post in site.categories['Research'] limit:10 %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
