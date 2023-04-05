@@ -1,5 +1,5 @@
 ---
-title: "I-PrACTISE White Paper"
+title: "A community pharmacy initiative to decrease hospital readmissions by increasing patient adherence and competency of therapy"
 categories:
   - Blog
   - Research
@@ -17,11 +17,13 @@ tags:
 White paper summarizing our work at Metastar.
 
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/i-community_pharmacy_initiative_reducing_readmissions_by_increasing_adherence.pdf" 
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/community_pharmacy_initiative_reducing_readmissions_by_increasing_adherence.pdf" 
     style="aspect-ratio: 8.5 / 11;"
     width="100%" 
 >
 </iframe>
+
+[Link to presentation.]({{ site.url }}{{ site.baseurl }}/assets/post_assets/community_pharmacy_initiative_reducing_readmissions_by_increasing_adherence.pdf)
 
 ## Abstract
 ### Background
