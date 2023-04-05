@@ -1,5 +1,5 @@
 ---
-title: "Mind the Performance Gap - Dataset Shift During Prospective Validation"
+title: "Mind the Performance Gap: Dataset Shift During Prospective Validation"
 categories:
   - Blog
   - Research
