@@ -3,6 +3,7 @@ title: "2015 FlexSim - SHS Emergency Department Modeling Competition"
 categories:
   - Blog
   - Project
+  - Research
 tags:
   - operations research
   - healthcare
@@ -25,3 +26,12 @@ We used a combination of discrete event simulation (FlexSim healthcare software)
 </iframe>
 
 [Link to presentation.]({{ site.url }}{{ site.baseurl }}/assets/post_assets/2015-01-01-SHS-FlexSim/Public_SHS_Flexim.pdf)
+
+
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/***.pdf" 
+    style="aspect-ratio: 8.5 / 11;"
+    width="100%" 
+>
+</iframe>
+
+[Link to paper.]({{ site.url }}{{ site.baseurl }}/assets/papers/***.pdf)
