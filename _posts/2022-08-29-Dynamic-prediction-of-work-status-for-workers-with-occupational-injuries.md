@@ -16,7 +16,7 @@ tags:
 
 Journal of the American Medical Informatics Association manuscript, can be found [here](https://doi.org/10.1093/jamia/ocac130).
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2022-JAMIA-RTW/JAMIA_RTW_Ötleş_2022_graphical_abstract.png" alt="Graphical abstract for JAMIA return to work manuscript." >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/post_assets/2022-JAMIA-RTW/JAMIA_RTW_graphical_abstract.png" alt="Graphical abstract for JAMIA return to work manuscript." >
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k8762xJbi8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
