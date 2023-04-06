@@ -60,7 +60,7 @@ highlights_row:
     url: "/projects/"
     
   - title: "Press"
-    excerpt: 'My work has been covered in outlets like STAT News, Wall Street Journal, and Wired.'
+    excerpt: 'My work has been covered in outlets like STAT News, The Washington Post, and Wired.'
     url: "/press/"
     
     
