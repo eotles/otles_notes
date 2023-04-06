@@ -6,8 +6,10 @@ categories:
 tags:
   - Blog
   - Research
-  - occupational health
-  - return to work
+  - COVID
+  - deterioration index
+  - Epic
+  - early warning system
   - medicine
   - healthcare
   - artificial intelligence
