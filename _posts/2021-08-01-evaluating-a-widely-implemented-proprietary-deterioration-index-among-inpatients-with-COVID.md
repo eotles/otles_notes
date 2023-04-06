@@ -1,5 +1,5 @@
 ---
-title: "Return to Work After Injury: A Sequential Prediction & Decision Problem"
+title: "Evaluating a Widely Implemented Proprietary Deterioration Index Model among Hospitalized Patients with COVID-19"
 categories:
   - Blog
   - Research
