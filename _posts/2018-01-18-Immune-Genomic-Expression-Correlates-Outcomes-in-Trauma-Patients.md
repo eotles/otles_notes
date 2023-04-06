@@ -10,10 +10,6 @@ tags:
   - genomics
   - medicine
   - healthcare
-  - health system engineering
-  - artificial intelligence
-  - machine learning
-  - operations research
 ---
 
 Academic Surgical Congress abstract, can be found [here](https://www.asc-abstracts.org/abs2018/41-03-immune-genomic-expression-correlates-with-discharge-location-and-poor-outcomes-in-trauma-patients/).
