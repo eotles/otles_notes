@@ -1,5 +1,5 @@
 ---
-title: "Quantification of Sepsis Model Alerts in 24 US Hospitals Before and During the COVID-19 Pandemic"
+title: "Comparative Assessment of a Machine Learning Model and Rectal Swab Surveillance to Predict Hospital Onset Clostridioides difficile"
 categories:
   - Blog
   - Research
