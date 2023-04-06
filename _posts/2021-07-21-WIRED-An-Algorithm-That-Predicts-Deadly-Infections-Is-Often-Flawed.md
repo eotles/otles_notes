@@ -14,7 +14,7 @@ tags:
   - healthcare
   - artificial intelligence
   - machine learning
-  - STAT News
+  - WIRED
 ---
 
 Tom Simonite of WIRED covered our [JAMA IM Epic Sepsis Model evaluation paper]({{ site.baseurl }}{% link _posts/2021-07-21-External-Validation-of-a-Widely-Implemented-Proprietary-Sepsis-Prediction-Model-in-Hospitalized-Patients.md %}). Check out the [article](https://www.wired.com/story/algorithm-predicts-deadly-infections-often-flawed/).
