@@ -17,10 +17,10 @@ tags:
 Machine Learning for Healthcare Conference clinical abstract, can be found [here](https://www.mlforhc.org/s/Otles-ef7d.pdf).
 
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/RTW_after_injury_sequential_prediction_and_decision.pdf.pdf" 
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/RTW_after_injury_sequential_prediction_and_decision.pdf" 
     style="aspect-ratio: 8.5 / 11;"
     width="100%" 
 >
 </iframe>
 
-[Download abstract.]({{ site.url }}{{ site.baseurl }}/assets/papers/RTW_after_injury_sequential_prediction_and_decision.pdf.pdf)
+[Download abstract.]({{ site.url }}{{ site.baseurl }}/assets/papers/RTW_after_injury_sequential_prediction_and_decision.pdf)
