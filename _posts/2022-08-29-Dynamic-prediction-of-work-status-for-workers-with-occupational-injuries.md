@@ -1,5 +1,5 @@
 ---
-title: "Return to Work After Injury: A Sequential Prediction & Decision Problem"
+title: "Dynamic prediction of work status for workers with occupational injuries: assessing the value of longitudinal observations"
 categories:
   - Blog
   - Research
