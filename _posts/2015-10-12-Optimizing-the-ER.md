@@ -1,5 +1,5 @@
 ---
-title: "Optimizing the ER"
+title: "Wisconsin Engineer: Optimizing the ER"
 categories:
   - Blog
   - Press
