@@ -6,9 +6,8 @@ categories:
 tags:
   - Blog
   - Research
-  - sepsis
-  - deterioration index
-  - Epic
+  - Clostridioides difficile
+  - infectious disease
   - early warning system
   - medicine
   - healthcare
