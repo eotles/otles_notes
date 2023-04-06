@@ -15,7 +15,7 @@ tags:
   - SIMPL
 ---
 
-JAMA Internal Medicine. Can be found [here](https://journals.lww.com/academicmedicine/Fulltext/2021/10000/Using_Natural_Language_Processing_to_Automatically.30.aspx).
+Academic Medicine. Can be found [here](https://journals.lww.com/academicmedicine/Fulltext/2021/10000/Using_Natural_Language_Processing_to_Automatically.30.aspx).
 
 
 <iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/using_NLP_to_automatically_assess_feedback_quality.pdf" 

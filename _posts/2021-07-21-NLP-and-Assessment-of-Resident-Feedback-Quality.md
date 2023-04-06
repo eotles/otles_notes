@@ -15,7 +15,7 @@ tags:
   - SIMPL
 ---
 
-JAMA Internal Medicine. Can be found [here](https://doi.org/10.1016/j.jsurg.2021.05.012).
+Journal of Surgical Education. Can be found [here](https://doi.org/10.1016/j.jsurg.2021.05.012).
 
 
 <iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/NLP_and_assessment_of_resident_feedback_quality.pdf" 
