@@ -17,4 +17,4 @@ tags:
   - STAT News
 ---
 
-Casey Ross of STAT News covered our [JAMA IM Epic Sepsis Model evaluation paper]({{ site.baseurl }}{% link _posts/External-Validation-of-a-Widely-Implemented-Proprietary-Sepsis-Prediction-Model-in-Hospitalized-Patients.md %}). Check out the [article](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool).
+Casey Ross of STAT News covered our [JAMA IM Epic Sepsis Model evaluation paper]({{ site.baseurl }}{% link _posts/2021-07-21-External-Validation-of-a-Widely-Implemented-Proprietary-Sepsis-Prediction-Model-in-Hospitalized-Patients.md %}). Check out the [article](https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool).
