@@ -18,13 +18,13 @@ tags:
 Global Surgical Education. Can be found [here](https://doi.org/10.1007/s44186-022-00051-y).
 
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/using_NLP_to_determine_factors_associated_with_high_quality_feedback.pdf.pdf" 
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/papers/using_NLP_to_determine_factors_associated_with_high_quality_feedback.pdf" 
     style="aspect-ratio: 8.5 / 11;"
     width="100%" 
 >
 </iframe>
 
-[Download paper.]({{ site.url }}{{ site.baseurl }}/assets/papers/using_NLP_to_determine_factors_associated_with_high_quality_feedback.pdf.pdf)
+[Download paper.]({{ site.url }}{{ site.baseurl }}/assets/papers/using_NLP_to_determine_factors_associated_with_high_quality_feedback.pdf)
 
 
 ## Abstract
